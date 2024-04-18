@@ -14,3 +14,6 @@ p {
   font-family: Karla;
   color: white
 }
+iframe.Quiz {
+  border-radius: 5px;
+}
