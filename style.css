@@ -16,4 +16,6 @@ p {
 }
 iframe {
   border-radius: 5px;
+  width: 768px;
+  height: 508px;
 }
